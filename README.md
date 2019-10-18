@@ -1,2 +1,0 @@
-# newbasic
-html file
